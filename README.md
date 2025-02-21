@@ -25,4 +25,3 @@ I'm a passionate web developer with experience in JavaScript, React, Node.js, an
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eglereact&show_icons=true&locale=en&layout=compact" alt="eglereact" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eglereact&" alt="eglereact" /></p>
