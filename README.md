@@ -7,9 +7,9 @@ I'm a passionate web developer with experience in JavaScript, React, Node.js, an
 
 <h3 align="left">What I've Been Up To:</h3>
 
-- 🔭 I’m currently working on [pet-store](https://github.com/eglereact/pet-store)
+- 🔭 I’m currently working on [gaming-blog](https://github.com/eglereact/Gaming-Blog)
 
-- 🌱 I’m currently learning **React, JavaScript, TypeScript**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eglereact?tab=repositories](https://github.com/eglereact?tab=repositories)
 
